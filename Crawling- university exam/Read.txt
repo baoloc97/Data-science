@@ -1,0 +1,5 @@
+Step 1 : u run the Crawling.py to get all the data  from the diemthi.hcm.edu.vn
+and create Raw_data.txt
+Step 2 : u run Cleandata.py to tranfer Raw_data.txt -> Clean_data.txt
+I also have csv file if u want to look
+Step 3 : Now u can run all chart when u have clean_data_txt
