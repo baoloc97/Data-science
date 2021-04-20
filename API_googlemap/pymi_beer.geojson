@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.83092,
+                    21.02084
+                ]
+            },
+            "properties": {
+                "Address": "Bia Dũng, Phố Tôn Đức Thắng 246, Quận Đống Đa, Việt Nam",
+                "name": "Bia Dung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.81403,
+                    21.01698
+                ]
+            },
+            "properties": {
+                "Address": "Trà Hoa Quán - Huỳnh Thúc Kháng, Phố Huỳnh Thúc Kháng 3-5, Quận Đống Đa, Việt Nam",
+                "name": "Trà Hoa Quán - Huỳnh Thúc Kháng (Bia Sai Gon - Huynh Thuc Khang)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8214,
+                    21.01901
+                ]
+            },
+            "properties": {
+                "Address": "Bia Hơi Hoàng Cầu, Phố Mai Anh Tuấn 141B-141C, Quận Đống Đa, Việt Nam",
+                "name": "Bia Hoi Hoang Cau"
+            }
+        }
+    ]
+}
