@@ -1,0 +1,153 @@
+1618895023360	geckodriver	INFO	Listening on 127.0.0.1:43349
+1618895023368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKpymXX"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895031453	Marionette	INFO	Listening on port 37665
+1618895031568	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618895173004	geckodriver	INFO	Listening on 127.0.0.1:40083
+1618895173011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjdxWh"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895179786	Marionette	INFO	Listening on port 34347
+1618895179895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618895256957	geckodriver	INFO	Listening on 127.0.0.1:58981
+1618895256967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerf9DoZ"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895266437	Marionette	INFO	Listening on port 36799
+1618895266506	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618895364460	geckodriver	INFO	Listening on 127.0.0.1:45545
+1618895364468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5zn7FP"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895371440	Marionette	INFO	Listening on port 35549
+1618895371519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618895408533	Marionette	INFO	Stopped listening on port 36799
+1618895409775	Marionette	INFO	Stopped listening on port 34347
+1618895411069	Marionette	INFO	Stopped listening on port 37665
+1618895446786	geckodriver	INFO	Listening on 127.0.0.1:43351
+1618895446794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWFKFiV"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895453155	Marionette	INFO	Listening on port 35561
+1618895453234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618895500497	geckodriver	INFO	Listening on 127.0.0.1:45711
+1618895500504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaqAc07"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895507423	Marionette	INFO	Listening on port 33311
+1618895507563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618895725061	geckodriver	INFO	Listening on 127.0.0.1:54365
+1618895725076	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelQuCwK"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618895733777	Marionette	INFO	Listening on port 39193
+1618895733873	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618896311310	geckodriver	INFO	Listening on 127.0.0.1:44309
+1618896311318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebPmepE"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618896319494	Marionette	INFO	Listening on port 39537
+1618896319572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618896518990	geckodriver	INFO	Listening on 127.0.0.1:60533
+1618896518998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledKSkaP"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618896528596	Marionette	INFO	Listening on port 41039
+1618896528722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618896543905	Marionette	INFO	Stopped listening on port 41039
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618896544633	Marionette	INFO	Stopped listening on port 39537
+1618896545844	Marionette	INFO	Stopped listening on port 39193
+1618896547013	Marionette	INFO	Stopped listening on port 35561
+1618896547940	Marionette	INFO	Stopped listening on port 35549
+1618896559852	Marionette	INFO	Stopped listening on port 33311
+1618896561793	geckodriver	INFO	Listening on 127.0.0.1:52593
+1618896561806	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezS3aqQ"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618896572666	Marionette	INFO	Listening on port 43871
+1618896572768	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618901966839	geckodriver	INFO	Listening on 127.0.0.1:54231
+1618901967816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezyRYkw"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618901978990	Marionette	INFO	Listening on port 44357
+1618901979049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902199856	geckodriver	INFO	Listening on 127.0.0.1:39375
+1618902199863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejnUOlM"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902206828	Marionette	INFO	Listening on port 36889
+1618902206947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902316281	geckodriver	INFO	Listening on 127.0.0.1:33615
+1618902316288	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelWPCkC"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902324899	Marionette	INFO	Listening on port 37143
+1618902324953	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618902378495	geckodriver	INFO	Listening on 127.0.0.1:54139
+1618902378502	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePSGwX7"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902385895	Marionette	INFO	Listening on port 40721
+1618902385944	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902486512	geckodriver	INFO	Listening on 127.0.0.1:57509
+1618902486519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejr76ML"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902492550	Marionette	INFO	Listening on port 46395
+1618902492675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902506606	Marionette	INFO	Stopped listening on port 46395
+1618902556744	Marionette	INFO	Stopped listening on port 37143
+1618902557637	Marionette	INFO	Stopped listening on port 36889
+1618902558409	Marionette	INFO	Stopped listening on port 44357
+1618902647568	geckodriver	INFO	Listening on 127.0.0.1:33867
+1618902647575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1Mnl5"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902652682	Marionette	INFO	Listening on port 44845
+1618902652778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902663878	Marionette	INFO	Stopped listening on port 44845
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618902855494	geckodriver	INFO	Listening on 127.0.0.1:35641
+1618902855503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexDW4W3"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902860467	Marionette	INFO	Listening on port 38715
+1618902860556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902868095	Marionette	INFO	Stopped listening on port 38715
+1618902931822	geckodriver	INFO	Listening on 127.0.0.1:53781
+1618902931829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaKKMFX"
+[GFX1-]: No GPUs detected via PCI
+[GFX1-]: glxtest: process failed (received signal 11)
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618902936841	Marionette	INFO	Listening on port 38553
+1618902936925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618902944261	Marionette	INFO	Stopped listening on port 38553
