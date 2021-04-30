@@ -6,7 +6,7 @@ import io
 from selenium.webdriver.common.by import By 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-
+import csv
 def take_first(string):
 	list = string.split(" ")
 	return list[0]
@@ -22,7 +22,14 @@ def take_totalnumber(browser):
 
 def GetData():
 	index =0
+	index2 =0
 	input_page = 3
+	f_data   = open('data_data.txt','w')
+	f_data.close()
+	with open("Output.csv","w",encoding = "utf8 ",newline = '') as file_csv:    
+			header = ["Order","Name Group","Members","Details"]
+			writer = csv.writer(file_csv)
+			writer.writerow(header)
 	for i in range(input_page):
 
 		sleep(5)
@@ -47,7 +54,7 @@ def GetData():
 			if Titles[j] != "" and j != 0 and Titles[j] not in Titles_final:
 				Titles_final.append(Titles[j])
 		
-		f_data   = open('data_data.txt','a+')
+		f_data   = open('data_data.txt','a')
 		for i in range(len(Titles_final)):
 				f_data.write("\n")
 				f_data.write("Group " + str(index+1) )
@@ -60,9 +67,17 @@ def GetData():
 				f_data.write("\n")
 				f_data.write("----------------------------")
 				index = index+1
-		sleep(5)		
+		
+		with open("Output.csv","a",encoding = "utf8 ",newline = '') as file_csv:
+		    writer = csv.writer(file_csv)
+		    for i in range(len(Titles_final)):
+		    	string = ["Group" + str(index2+1),Titles_final[i],Members[i],Details[i]]
+		    	writer.writerow(string)
+		    	index2 = index2 +1
+
+		sleep(8)		
 		browser.execute_script('window.scrollTo(0,document.body.scrollHeight);')
-		sleep(10)
+		sleep(8)
 		Next_button = browser.find_element_by_xpath('//*[@aria-label="Next"]')
 		Next_button.click()
 
@@ -71,10 +86,14 @@ def GetData():
 browser = webdriver.Firefox()
 browser.get("https://www.linkedin.com/checkpoint/lg/login")
 #Login
+Infor = open("Infor.txt",'r')
+line = Infor.readlines()
+username = line[0]
+password = line[1]
 txtUser = browser.find_element_by_id("username")
-txtUser.send_keys("baolochuynh24@gmail.com")
+txtUser.send_keys(username)
 txtPass = browser.find_element_by_id("password")
-txtPass.send_keys("Baoloc2509")
+txtPass.send_keys(password)
 txtPass.send_keys(Keys.ENTER)
 sleep(15)
 #Search tab 
